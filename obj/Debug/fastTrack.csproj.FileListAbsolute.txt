@@ -1,0 +1,7 @@
+E:\OneDrive\Programmierung Privat\03_CSharp\fastTrack\bin\Debug\fastTrack.exe.config
+E:\OneDrive\Programmierung Privat\03_CSharp\fastTrack\bin\Debug\fastTrack.exe
+E:\OneDrive\Programmierung Privat\03_CSharp\fastTrack\bin\Debug\fastTrack.pdb
+E:\OneDrive\Programmierung Privat\03_CSharp\fastTrack\obj\Debug\fastTrack.csprojAssemblyReference.cache
+E:\OneDrive\Programmierung Privat\03_CSharp\fastTrack\obj\Debug\fastTrack.csproj.CoreCompileInputs.cache
+E:\OneDrive\Programmierung Privat\03_CSharp\fastTrack\obj\Debug\fastTrack.exe
+E:\OneDrive\Programmierung Privat\03_CSharp\fastTrack\obj\Debug\fastTrack.pdb
