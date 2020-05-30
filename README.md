@@ -26,6 +26,4 @@
 &nbsp;
 
 ## Future
-- [ ] create a **user interface** that everybody could customize it
-- [ ] work with metacode
-- [ ] get usefull🤣
+check out **[Shelly](https://github.com/LucaKuechler/Shelly)**
